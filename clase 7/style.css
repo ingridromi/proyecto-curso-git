@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+body
+{
+    width: 50%;
+}
+h1{padding: 12px;
+text-align: center;
+background-color: yellowgreen;
+margin: auto;
+}
+p, li{
+    background-color: cadetblue;
+}
+a{
+    background-color: aqua;
+}
+span{background-color: rebeccapurple;}
